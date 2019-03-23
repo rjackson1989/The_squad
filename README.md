@@ -2,7 +2,7 @@
 
 Welcome to the web development sandbox of Ray and Billy! 
 
-#Authors:
+# Authors:
 Ray Jackson
 
 Billy Ho
